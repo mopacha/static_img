@@ -1,0 +1,2 @@
+# static_img
+images
